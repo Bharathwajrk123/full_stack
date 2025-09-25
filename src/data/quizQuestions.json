@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which handshape represents the letter 'A' in ASL?",
+      "type": "alphabet",
+      "options": [
+        "Make a fist with thumb resting against the side of your index finger",
+        "Point your index finger up, curl other fingers to touch thumb",
+        "Extend only your pinky finger, fold other fingers down",
+        "Hold your hand up with fingers straight and together"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The letter A is formed by making a fist with the thumb resting against the side of the index finger."
+    },
+    {
+      "id": 2,
+      "question": "How do you sign the number '7' in ASL?",
+      "type": "number",
+      "options": [
+        "Touch thumb to pinky, keep other three fingers up",
+        "Touch thumb to ring finger, keep other three fingers up",
+        "Touch thumb to middle finger, keep other three fingers up",
+        "Touch thumb to index finger, keep other three fingers up"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The number 7 is signed by touching the thumb to the ring finger while keeping the other three fingers extended."
+    },
+    {
+      "id": 3,
+      "question": "What is the correct way to sign 'Thank You'?",
+      "type": "common",
+      "options": [
+        "Wave your hand with an open palm",
+        "Touch fingertips to chin, then move hand forward and down",
+        "Place flat hand on chest and move in circular motion",
+        "Clap hands together twice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thank you is signed by touching fingertips to the chin, then moving the hand forward and down."
+    },
+    {
+      "id": 4,
+      "question": "Which letter is formed by extending index and middle fingers horizontally?",
+      "type": "alphabet",
+      "options": [
+        "Letter G",
+        "Letter H",
+        "Letter K",
+        "Letter U"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The letter H is formed by extending the index and middle fingers horizontally while keeping the other fingers folded."
+    },
+    {
+      "id": 5,
+      "question": "How do you sign the number '0' in ASL?",
+      "type": "number",
+      "options": [
+        "Make a fist with thumb over fingers",
+        "Form an O shape with all fingers and thumb",
+        "Point index finger up, fold other fingers down",
+        "Spread all five fingers wide open"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The number 0 is signed by forming an O shape with all fingers and thumb, similar to the letter O."
+    },
+    {
+      "id": 6,
+      "question": "What is the sign for 'Water'?",
+      "type": "common",
+      "options": [
+        "Bring fingertips to mouth as if eating",
+        "Make W handshape and tap it against your chin twice",
+        "Touch fingertips to mouth, then move to side of face",
+        "Make fist and rub it in circular motion on chest"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is signed by making a W handshape and tapping it against the chin twice."
+    },
+    {
+      "id": 7,
+      "question": "Which handshape represents the letter 'Y'?",
+      "type": "alphabet",
+      "options": [
+        "Point index and middle fingers up in a V shape",
+        "Extend thumb and pinky, fold other fingers down",
+        "Point index, middle, and ring fingers up together",
+        "Cross index finger over middle finger, both pointing up"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The letter Y is formed by extending the thumb and pinky while folding the other fingers down."
+    },
+    {
+      "id": 8,
+      "question": "How do you sign 'Please' in ASL?",
+      "type": "common",
+      "options": [
+        "Touch fingertips to chin, then move hand forward and down",
+        "Place flat hand on chest and move in circular motion",
+        "Wave your hand with an open palm",
+        "Make fist and nod it up and down"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Please is signed by placing a flat hand on the chest and moving it in a circular motion."
+    },
+    {
+      "id": 9,
+      "question": "What number is represented by pointing four fingers up with thumb folded across palm?",
+      "type": "number",
+      "options": [
+        "Number 3",
+        "Number 4",
+        "Number 5",
+        "Number 6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The number 4 is signed by pointing four fingers up while folding the thumb across the palm."
+    },
+    {
+      "id": 10,
+      "question": "How do you sign 'Help'?",
+      "type": "common",
+      "options": [
+        "Hook index fingers together, then switch positions",
+        "Place one fist on opposite palm and lift both hands up",
+        "Make fists and tap one on top of the other repeatedly",
+        "Snap index and middle finger down to thumb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Help is signed by placing one fist on the opposite palm and lifting both hands up together."
+    }
+  ]
+}
