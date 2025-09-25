@@ -1,0 +1,613 @@
+{
+  "learning": [
+    {"title": "Letter A", "short_description": "The first letter of the alphabet in American Sign Language.", "example_instruction": "Make a fist with your thumb resting against the side of your index finger", "example_video_search_query": "ASL alphabet letter A sign language"},
+    {"title": "Letter B", "short_description": "The second letter of the alphabet in ASL.", "example_instruction": "Hold your hand up with fingers straight and together, thumb folded across palm", "example_video_search_query": "ASL alphabet letter B sign language"},
+    {"title": "Letter C", "short_description": "The third letter of the alphabet in ASL.", "example_instruction": "Curve your fingers and thumb to form the shape of the letter C", "example_video_search_query": "ASL alphabet letter C sign language"},
+    {"title": "Letter D", "short_description": "The fourth letter of the alphabet in ASL.", "example_instruction": "Point your index finger up, curl other fingers to touch thumb", "example_video_search_query": "ASL alphabet letter D sign language"},
+    {"title": "Letter E", "short_description": "The fifth letter of the alphabet in ASL.", "example_instruction": "Curl all fingers down to touch thumb, forming a closed fist", "example_video_search_query": "ASL alphabet letter E sign language"},
+    {"title": "Letter F", "short_description": "The sixth letter of the alphabet in ASL.", "example_instruction": "Touch thumb to index finger, keep other three fingers straight up", "example_video_search_query": "ASL alphabet letter F sign language"},
+    {"title": "Letter G", "short_description": "The seventh letter of the alphabet in ASL.", "example_instruction": "Point index finger and thumb horizontally, like holding something small", "example_video_search_query": "ASL alphabet letter G sign language"},
+    {"title": "Letter H", "short_description": "The eighth letter of the alphabet in ASL.", "example_instruction": "Extend index and middle fingers horizontally, keep others folded", "example_video_search_query": "ASL alphabet letter H sign language"},
+    {"title": "Letter I", "short_description": "The ninth letter of the alphabet in ASL.", "example_instruction": "Extend only your pinky finger, fold other fingers down", "example_video_search_query": "ASL alphabet letter I sign language"},
+    {"title": "Letter J", "short_description": "The tenth letter of the alphabet in ASL.", "example_instruction": "Make the letter I, then draw a J shape in the air", "example_video_search_query": "ASL alphabet letter J sign language"},
+    {"title": "Letter K", "short_description": "The eleventh letter of the alphabet in ASL.", "example_instruction": "Point index and middle fingers up, thumb between them", "example_video_search_query": "ASL alphabet letter K sign language"},
+    {"title": "Letter L", "short_description": "The twelfth letter of the alphabet in ASL.", "example_instruction": "Extend index finger up and thumb out, forming an L shape", "example_video_search_query": "ASL alphabet letter L sign language"},
+    {"title": "Letter M", "short_description": "The thirteenth letter of the alphabet in ASL.", "example_instruction": "Fold first three fingers over thumb, pinky extended", "example_video_search_query": "ASL alphabet letter M sign language"},
+    {"title": "Letter N", "short_description": "The fourteenth letter of the alphabet in ASL.", "example_instruction": "Fold first two fingers over thumb, other fingers extended", "example_video_search_query": "ASL alphabet letter N sign language"},
+    {"title": "Letter O", "short_description": "The fifteenth letter of the alphabet in ASL.", "example_instruction": "Curve all fingers to meet thumb, forming an O shape", "example_video_search_query": "ASL alphabet letter O sign language"},
+    {"title": "Letter P", "short_description": "The sixteenth letter of the alphabet in ASL.", "example_instruction": "Like K but pointing downward at a 45-degree angle", "example_video_search_query": "ASL alphabet letter P sign language"},
+    {"title": "Letter Q", "short_description": "The seventeenth letter of the alphabet in ASL.", "example_instruction": "Like G but pointing downward", "example_video_search_query": "ASL alphabet letter Q sign language"},
+    {"title": "Letter R", "short_description": "The eighteenth letter of the alphabet in ASL.", "example_instruction": "Cross index finger over middle finger, both pointing up", "example_video_search_query": "ASL alphabet letter R sign language"},
+    {"title": "Letter S", "short_description": "The nineteenth letter of the alphabet in ASL.", "example_instruction": "Make a fist with thumb over fingers", "example_video_search_query": "ASL alphabet letter S sign language"},
+    {"title": "Letter T", "short_description": "The twentieth letter of the alphabet in ASL.", "example_instruction": "Fold fingers over thumb, thumb tip showing between index and middle", "example_video_search_query": "ASL alphabet letter T sign language"},
+    {"title": "Letter U", "short_description": "The twenty-first letter of the alphabet in ASL.", "example_instruction": "Point index and middle fingers up together, side by side", "example_video_search_query": "ASL alphabet letter U sign language"},
+    {"title": "Letter V", "short_description": "The twenty-second letter of the alphabet in ASL.", "example_instruction": "Point index and middle fingers up in a V shape", "example_video_search_query": "ASL alphabet letter V sign language"},
+    {"title": "Letter W", "short_description": "The twenty-third letter of the alphabet in ASL.", "example_instruction": "Point index, middle, and ring fingers up together", "example_video_search_query": "ASL alphabet letter W sign language"},
+    {"title": "Letter X", "short_description": "The twenty-fourth letter of the alphabet in ASL.", "example_instruction": "Bend index finger into a hook shape, other fingers folded", "example_video_search_query": "ASL alphabet letter X sign language"},
+    {"title": "Letter Y", "short_description": "The twenty-fifth letter of the alphabet in ASL.", "example_instruction": "Extend thumb and pinky, fold other fingers down", "example_video_search_query": "ASL alphabet letter Y sign language"},
+    {"title": "Letter Z", "short_description": "The twenty-sixth letter of the alphabet in ASL.", "example_instruction": "Point index finger and draw a Z shape in the air", "example_video_search_query": "ASL alphabet letter Z sign language"},
+    
+    {"title": "Number 0", "short_description": "The number zero in American Sign Language.", "example_instruction": "Form an O shape with all fingers and thumb", "example_video_search_query": "ASL number 0 zero sign language"},
+    {"title": "Number 1", "short_description": "The number one in ASL.", "example_instruction": "Point index finger up, fold other fingers down", "example_video_search_query": "ASL number 1 one sign language"},
+    {"title": "Number 2", "short_description": "The number two in ASL.", "example_instruction": "Point index and middle fingers up in a V shape", "example_video_search_query": "ASL number 2 two sign language"},
+    {"title": "Number 3", "short_description": "The number three in ASL.", "example_instruction": "Point thumb, index, and middle fingers up", "example_video_search_query": "ASL number 3 three sign language"},
+    {"title": "Number 4", "short_description": "The number four in ASL.", "example_instruction": "Point four fingers up, fold thumb across palm", "example_video_search_query": "ASL number 4 four sign language"},
+    {"title": "Number 5", "short_description": "The number five in ASL.", "example_instruction": "Spread all five fingers wide open", "example_video_search_query": "ASL number 5 five sign language"},
+    {"title": "Number 6", "short_description": "The number six in ASL.", "example_instruction": "Touch thumb to pinky, keep other three fingers up", "example_video_search_query": "ASL number 6 six sign language"},
+    {"title": "Number 7", "short_description": "The number seven in ASL.", "example_instruction": "Touch thumb to ring finger, keep other three fingers up", "example_video_search_query": "ASL number 7 seven sign language"},
+    {"title": "Number 8", "short_description": "The number eight in ASL.", "example_instruction": "Touch thumb to middle finger, keep other three fingers up", "example_video_search_query": "ASL number 8 eight sign language"},
+    {"title": "Number 9", "short_description": "The number nine in ASL.", "example_instruction": "Touch thumb to index finger, keep other three fingers up", "example_video_search_query": "ASL number 9 nine sign language"},
+    
+    {"title": "Hello", "short_description": "A common greeting used to acknowledge someone or start a conversation.", "example_instruction": "Wave your hand with an open palm, or touch forehead and move hand forward", "example_video_search_query": "ASL hello greeting sign language"},
+    {"title": "Goodbye", "short_description": "A farewell greeting used when parting from someone.", "example_instruction": "Wave your hand back and forth with palm facing outward", "example_video_search_query": "ASL goodbye farewell sign language"},
+    {"title": "Thank You", "short_description": "An expression of gratitude and appreciation.", "example_instruction": "Touch fingertips to chin, then move hand forward and down", "example_video_search_query": "ASL thank you gratitude sign language"},
+    {"title": "Please", "short_description": "A polite way to make a request or ask for something.", "example_instruction": "Place flat hand on chest and move in circular motion", "example_video_search_query": "ASL please request sign language"},
+    {"title": "Sorry", "short_description": "An apology or expression of regret.", "example_instruction": "Make fist and rub it in circular motion on chest", "example_video_search_query": "ASL sorry apology sign language"},
+    {"title": "Yes", "short_description": "An affirmative response or agreement.", "example_instruction": "Make fist and nod it up and down like a head nodding", "example_video_search_query": "ASL yes affirmative sign language"},
+    {"title": "No", "short_description": "A negative response or disagreement.", "example_instruction": "Snap index and middle finger down to thumb", "example_video_search_query": "ASL no negative sign language"},
+    {"title": "Water", "short_description": "The essential liquid for life and hydration.", "example_instruction": "Make W handshape and tap it against your chin twice", "example_video_search_query": "ASL water drink sign language"},
+    {"title": "Food", "short_description": "Anything that can be eaten for nourishment.", "example_instruction": "Bring fingertips to mouth as if eating", "example_video_search_query": "ASL food eat sign language"},
+    {"title": "Milk", "short_description": "A white liquid produced by mammals, commonly from cows.", "example_instruction": "Make fist and squeeze as if milking a cow", "example_video_search_query": "ASL milk dairy sign language"},
+    
+    {"title": "Apple", "short_description": "A round fruit that grows on trees, often red or green.", "example_instruction": "Make X handshape and twist it at the corner of your mouth", "example_video_search_query": "ASL apple fruit sign language"},
+    {"title": "Banana", "short_description": "A yellow curved fruit that grows in bunches.", "example_instruction": "Hold up index finger and pretend to peel it with other hand", "example_video_search_query": "ASL banana fruit sign language"},
+    {"title": "Orange", "short_description": "A citrus fruit that is typically orange in color.", "example_instruction": "Make C handshape and squeeze it near your mouth", "example_video_search_query": "ASL orange fruit sign language"},
+    {"title": "Bread", "short_description": "A staple food made from flour and water, usually baked.", "example_instruction": "Hold non-dominant hand flat, slice with dominant hand like cutting bread", "example_video_search_query": "ASL bread food sign language"},
+    {"title": "Cheese", "short_description": "A dairy product made from milk, often used in cooking.", "example_instruction": "Press palms together and twist, as if pressing cheese", "example_video_search_query": "ASL cheese dairy sign language"},
+    {"title": "Meat", "short_description": "Animal flesh used as food.", "example_instruction": "Pinch the flesh between thumb and index finger of non-dominant hand", "example_video_search_query": "ASL meat protein sign language"},
+    {"title": "Chicken", "short_description": "A common poultry bird raised for meat and eggs.", "example_instruction": "Make beak shape with thumb and index finger near mouth", "example_video_search_query": "ASL chicken poultry sign language"},
+    {"title": "Fish", "short_description": "Aquatic animals that live in water and are often eaten as food.", "example_instruction": "Hold hand flat and move it in swimming motion", "example_video_search_query": "ASL fish seafood sign language"},
+    {"title": "Rice", "short_description": "A grain that is a staple food in many cultures.", "example_instruction": "Scoop motion with cupped hand as if eating rice", "example_video_search_query": "ASL rice grain sign language"},
+    {"title": "Pasta", "short_description": "Italian food made from wheat flour and water, shaped in various forms.", "example_instruction": "Make pinky handshapes and twist them like twirling spaghetti", "example_video_search_query": "ASL pasta spaghetti sign language"},
+    
+    {"title": "Coffee", "short_description": "A popular caffeinated beverage made from coffee beans.", "example_instruction": "Make grinding motion with both fists, one on top of the other", "example_video_search_query": "ASL coffee drink sign language"},
+    {"title": "Tea", "short_description": "A beverage made by steeping tea leaves in hot water.", "example_instruction": "Make F handshape and dip it into cupped other hand like a tea bag", "example_video_search_query": "ASL tea drink sign language"},
+    {"title": "Juice", "short_description": "A liquid extracted from fruits or vegetables.", "example_instruction": "Make J handshape near corner of mouth", "example_video_search_query": "ASL juice drink sign language"},
+    {"title": "Soda", "short_description": "A carbonated soft drink, often sweet and flavored.", "example_instruction": "Make 5 handshape and push down into cupped other hand, then drink", "example_video_search_query": "ASL soda pop sign language"},
+    {"title": "Beer", "short_description": "An alcoholic beverage made from fermented grains.", "example_instruction": "Make B handshape and slide it down the side of your cheek", "example_video_search_query": "ASL beer alcohol sign language"},
+    
+    {"title": "Home", "short_description": "The place where one lives permanently.", "example_instruction": "Touch fingertips to mouth, then move to side of face", "example_video_search_query": "ASL home house sign language"},
+    {"title": "House", "short_description": "A building designed for people to live in.", "example_instruction": "Make roof shape with both hands, then outline walls", "example_video_search_query": "ASL house building sign language"},
+    {"title": "Room", "short_description": "A space within a building enclosed by walls.", "example_instruction": "Make R handshapes and outline a box shape", "example_video_search_query": "ASL room space sign language"},
+    {"title": "Kitchen", "short_description": "A room where food is prepared and cooked.", "example_instruction": "Make K handshape and flip it over like flipping pancakes", "example_video_search_query": "ASL kitchen cooking sign language"},
+    {"title": "Bathroom", "short_description": "A room containing a toilet and usually a sink and bathtub.", "example_instruction": "Make T handshape and shake it back and forth", "example_video_search_query": "ASL bathroom toilet sign language"},
+    {"title": "Bedroom", "short_description": "A room used primarily for sleeping.", "example_instruction": "Place flat hand against cheek as if sleeping", "example_video_search_query": "ASL bedroom sleep sign language"},
+    {"title": "Door", "short_description": "A movable barrier used to close an entrance.", "example_instruction": "Hold both hands up and swing one like opening a door", "example_video_search_query": "ASL door entrance sign language"},
+    {"title": "Window", "short_description": "An opening in a wall fitted with glass to let in light.", "example_instruction": "Place one hand on top of the other and move top hand up like opening a window", "example_video_search_query": "ASL window glass sign language"},
+    {"title": "Table", "short_description": "A piece of furniture with a flat top supported by legs.", "example_instruction": "Pat both forearms to show flat surface", "example_video_search_query": "ASL table furniture sign language"},
+    {"title": "Chair", "short_description": "A seat for one person, typically with a back and four legs.", "example_instruction": "Hook two fingers over two fingers of other hand", "example_video_search_query": "ASL chair seat sign language"},
+    
+    {"title": "Family", "short_description": "A group of people related by blood or marriage.", "example_instruction": "Make F handshapes with both hands, circle them around each other", "example_video_search_query": "ASL family relatives sign language"},
+    {"title": "Mother", "short_description": "A female parent.", "example_instruction": "Touch thumb to chin with 5 handshape", "example_video_search_query": "ASL mother mom sign language"},
+    {"title": "Father", "short_description": "A male parent.", "example_instruction": "Touch thumb to forehead with 5 handshape", "example_video_search_query": "ASL father dad sign language"},
+    {"title": "Sister", "short_description": "A female sibling.", "example_instruction": "Touch thumb to chin, then make L handshapes and bring together", "example_video_search_query": "ASL sister sibling sign language"},
+    {"title": "Brother", "short_description": "A male sibling.", "example_instruction": "Touch thumb to forehead, then make L handshapes and bring together", "example_video_search_query": "ASL brother sibling sign language"},
+    {"title": "Baby", "short_description": "A very young child or infant.", "example_instruction": "Rock arms back and forth as if holding a baby", "example_video_search_query": "ASL baby infant sign language"},
+    {"title": "Child", "short_description": "A young human being below the age of puberty.", "example_instruction": "Pat head at child's height with flat hand", "example_video_search_query": "ASL child kid sign language"},
+    {"title": "Friend", "short_description": "A person you know well and like.", "example_instruction": "Hook index fingers together, then switch positions", "example_video_search_query": "ASL friend friendship sign language"},
+    {"title": "Person", "short_description": "An individual human being.", "example_instruction": "Make P handshapes and move them down the sides of your body", "example_video_search_query": "ASL person individual sign language"},
+    {"title": "Man", "short_description": "An adult male human.", "example_instruction": "Touch thumb to forehead, then move to chest", "example_video_search_query": "ASL man male sign language"},
+    
+    {"title": "Woman", "short_description": "An adult female human.", "example_instruction": "Touch thumb to chin, then move to chest", "example_video_search_query": "ASL woman female sign language"},
+    {"title": "Boy", "short_description": "A male child or young man.", "example_instruction": "Make flat hand and snap fingers at forehead like a cap brim", "example_video_search_query": "ASL boy male child sign language"},
+    {"title": "Girl", "short_description": "A female child or young woman.", "example_instruction": "Brush thumb down cheek with A handshape", "example_video_search_query": "ASL girl female child sign language"},
+    {"title": "Husband", "short_description": "A married man in relation to his wife.", "example_instruction": "Touch forehead then clasp hands together", "example_video_search_query": "ASL husband married man sign language"},
+    {"title": "Wife", "short_description": "A married woman in relation to her husband.", "example_instruction": "Touch chin then clasp hands together", "example_video_search_query": "ASL wife married woman sign language"},
+    
+    {"title": "School", "short_description": "An institution for educating children or adults.", "example_instruction": "Clap hands together twice, like a teacher getting attention", "example_video_search_query": "ASL school education sign language"},
+    {"title": "Teacher", "short_description": "A person who teaches, especially in a school.", "example_instruction": "Make flat hands near temples, then move forward", "example_video_search_query": "ASL teacher educator sign language"},
+    {"title": "Student", "short_description": "A person who is studying at a school or university.", "example_instruction": "Place flat hand on forehead, then on palm of other hand", "example_video_search_query": "ASL student learner sign language"},
+    {"title": "Book", "short_description": "A written or printed work consisting of pages.", "example_instruction": "Place palms together and open like opening a book", "example_video_search_query": "ASL book reading sign language"},
+    {"title": "Paper", "short_description": "Material made from wood pulp, used for writing or printing.", "example_instruction": "Brush palms together twice as if smoothing paper", "example_video_search_query": "ASL paper document sign language"},
+    {"title": "Pen", "short_description": "A writing instrument that uses ink.", "example_instruction": "Make writing motion with index finger and thumb", "example_video_search_query": "ASL pen writing sign language"},
+    {"title": "Pencil", "short_description": "A writing instrument with a graphite core.", "example_instruction": "Touch lips with index finger, then make writing motion", "example_video_search_query": "ASL pencil writing sign language"},
+    {"title": "Computer", "short_description": "An electronic device for processing data.", "example_instruction": "Make C handshape and move it up your arm like typing", "example_video_search_query": "ASL computer technology sign language"},
+    {"title": "Phone", "short_description": "A device used for communication over distances.", "example_instruction": "Hold Y handshape to ear like holding a phone", "example_video_search_query": "ASL phone telephone sign language"},
+    {"title": "Internet", "short_description": "A global network connecting computers worldwide.", "example_instruction": "Touch middle fingers together and move in circular motions", "example_video_search_query": "ASL internet online sign language"},
+    
+    {"title": "Work", "short_description": "Activity involving mental or physical effort to achieve a result.", "example_instruction": "Make fists and tap one on top of the other repeatedly", "example_video_search_query": "ASL work job sign language"},
+    {"title": "Job", "short_description": "A paid position of regular employment.", "example_instruction": "Make J handshape and tap it on palm of other hand", "example_video_search_query": "ASL job employment sign language"},
+    {"title": "Money", "short_description": "A medium of exchange in the form of coins and banknotes.", "example_instruction": "Tap the back of one hand into the palm of the other", "example_video_search_query": "ASL money currency sign language"},
+    {"title": "Business", "short_description": "Commercial activity or a company engaged in trade.", "example_instruction": "Make B handshape and tap it on wrist of other hand", "example_video_search_query": "ASL business company sign language"},
+    {"title": "Office", "short_description": "A room or building where business or professional work is done.", "example_instruction": "Make O handshapes and outline a square", "example_video_search_query": "ASL office workplace sign language"},
+    {"title": "Meeting", "short_description": "An assembly of people for discussion or decision-making.", "example_instruction": "Bring fingertips of both hands together repeatedly", "example_video_search_query": "ASL meeting conference sign language"},
+    {"title": "Boss", "short_description": "A person in charge of a worker or organization.", "example_instruction": "Make B handshape and tap it on shoulder", "example_video_search_query": "ASL boss supervisor sign language"},
+    {"title": "Employee", "short_description": "A person employed for wages or salary.", "example_instruction": "Make E handshape and move it across chest", "example_video_search_query": "ASL employee worker sign language"},
+    
+    {"title": "Doctor", "short_description": "A person qualified to practice medicine.", "example_instruction": "Make D handshape and tap it on wrist pulse point", "example_video_search_query": "ASL doctor physician sign language"},
+    {"title": "Nurse", "short_description": "A person trained to care for sick or injured people.", "example_instruction": "Make N handshape and tap it on wrist pulse point", "example_video_search_query": "ASL nurse healthcare sign language"},
+    {"title": "Hospital", "short_description": "An institution providing medical treatment.", "example_instruction": "Make H handshape and draw a cross on your upper arm", "example_video_search_query": "ASL hospital medical sign language"},
+    {"title": "Medicine", "short_description": "A drug or treatment used to cure illness.", "example_instruction": "Make M handshape and rub it in palm of other hand", "example_video_search_query": "ASL medicine medication sign language"},
+    {"title": "Sick", "short_description": "Affected by illness or disease.", "example_instruction": "Touch middle finger to forehead and stomach simultaneously", "example_video_search_query": "ASL sick ill sign language"},
+    {"title": "Pain", "short_description": "Physical suffering or discomfort.", "example_instruction": "Point index fingers at each other and jab them together", "example_video_search_query": "ASL pain hurt sign language"},
+    {"title": "Health", "short_description": "The state of being free from illness or injury.", "example_instruction": "Make H handshapes and place them on chest, then move outward", "example_video_search_query": "ASL health wellness sign language"},
+    {"title": "Emergency", "short_description": "A serious, unexpected situation requiring immediate action.", "example_instruction": "Make E handshape and shake it urgently", "example_video_search_query": "ASL emergency urgent sign language"},
+    
+    {"title": "Car", "short_description": "A motor vehicle with four wheels for transportation.", "example_instruction": "Make fists and move them as if steering a car", "example_video_search_query": "ASL car automobile sign language"},
+    {"title": "Bus", "short_description": "A large motor vehicle for carrying passengers.", "example_instruction": "Make B handshapes and move them as if holding a steering wheel", "example_video_search_query": "ASL bus transportation sign language"},
+    {"title": "Train", "short_description": "A series of connected railway cars for transportation.", "example_instruction": "Rub H handshapes together back and forth", "example_video_search_query": "ASL train railroad sign language"},
+    {"title": "Airplane", "short_description": "A powered aircraft with wings for air travel.", "example_instruction": "Make I-L-Y handshape and move it through the air", "example_video_search_query": "ASL airplane plane sign language"},
+    {"title": "Bicycle", "short_description": "A two-wheeled vehicle powered by pedaling.", "example_instruction": "Make fists and move them in pedaling motion", "example_video_search_query": "ASL bicycle bike sign language"},
+    {"title": "Walk", "short_description": "To move at a regular pace by lifting and setting down each foot.", "example_instruction": "Make flat hands and alternate moving them forward", "example_video_search_query": "ASL walk walking sign language"},
+    {"title": "Run", "short_description": "To move at a speed faster than walking.", "example_instruction": "Hook index finger around thumb and move forward quickly", "example_video_search_query": "ASL run running sign language"},
+    {"title": "Drive", "short_description": "To operate and control a motor vehicle.", "example_instruction": "Make fists and move them as if steering", "example_video_search_query": "ASL drive driving sign language"},
+    {"title": "Stop", "short_description": "To cease movement or come to an end.", "example_instruction": "Bring flat hand down onto palm of other hand", "example_video_search_query": "ASL stop halt sign language"},
+    {"title": "Go", "short_description": "To move from one place to another.", "example_instruction": "Point index fingers and move them forward", "example_video_search_query": "ASL go move sign language"},
+    
+    {"title": "Store", "short_description": "A retail establishment selling items to the public.", "example_instruction": "Make flat hands and swing them outward twice", "example_video_search_query": "ASL store shop sign language"},
+    {"title": "Buy", "short_description": "To obtain something in exchange for payment.", "example_instruction": "Place flat hand on palm and move it forward", "example_video_search_query": "ASL buy purchase sign language"},
+    {"title": "Sell", "short_description": "To give something in exchange for money.", "example_instruction": "Make flat hands and move them outward and down", "example_video_search_query": "ASL sell selling sign language"},
+    {"title": "Price", "short_description": "The amount of money expected for something.", "example_instruction": "Make P handshape and tap it on palm", "example_video_search_query": "ASL price cost sign language"},
+    {"title": "Expensive", "short_description": "Costing a lot of money.", "example_instruction": "Place flat hand on palm, then throw it away", "example_video_search_query": "ASL expensive costly sign language"},
+    {"title": "Cheap", "short_description": "Low in price; not expensive.", "example_instruction": "Brush index finger down palm of other hand", "example_video_search_query": "ASL cheap inexpensive sign language"},
+    {"title": "Free", "short_description": "Not costing any money.", "example_instruction": "Make F handshape and move it across chest", "example_video_search_query": "ASL free no cost sign language"},
+    
+    {"title": "Time", "short_description": "The indefinite continued progress of existence.", "example_instruction": "Tap index finger on wrist where a watch would be", "example_video_search_query": "ASL time clock sign language"},
+    {"title": "Hour", "short_description": "A period of sixty minutes.", "example_instruction": "Make circle with index finger on palm", "example_video_search_query": "ASL hour time sign language"},
+    {"title": "Minute", "short_description": "A period of sixty seconds.", "example_instruction": "Make M handshape and move it slightly on palm", "example_video_search_query": "ASL minute time sign language"},
+    {"title": "Day", "short_description": "A twenty-four hour period.", "example_instruction": "Point index finger up and move it across in an arc", "example_video_search_query": "ASL day daily sign language"},
+    {"title": "Week", "short_description": "A period of seven days.", "example_instruction": "Make 1 handshape and slide it across palm", "example_video_search_query": "ASL week weekly sign language"},
+    {"title": "Month", "short_description": "A period of about thirty days.", "example_instruction": "Make 1 handshapes and slide one down the other", "example_video_search_query": "ASL month monthly sign language"},
+    {"title": "Year", "short_description": "A period of twelve months.", "example_instruction": "Make fists and rotate one around the other", "example_video_search_query": "ASL year yearly sign language"},
+    {"title": "Today", "short_description": "On this present day.", "example_instruction": "Make Y handshapes and move them down twice", "example_video_search_query": "ASL today present sign language"},
+    {"title": "Tomorrow", "short_description": "On the day after today.", "example_instruction": "Touch thumb to cheek and move it forward", "example_video_search_query": "ASL tomorrow future sign language"},
+    {"title": "Yesterday", "short_description": "On the day before today.", "example_instruction": "Touch thumb to cheek and move it backward", "example_video_search_query": "ASL yesterday past sign language"},
+    
+    {"title": "Morning", "short_description": "The early part of the day.", "example_instruction": "Place flat hand in crook of other arm and raise it", "example_video_search_query": "ASL morning early sign language"},
+    {"title": "Afternoon", "short_description": "The time from noon to evening.", "example_instruction": "Place forearm flat and point other hand down at angle", "example_video_search_query": "ASL afternoon midday sign language"},
+    {"title": "Evening", "short_description": "The latter part of the day.", "example_instruction": "Place flat hand over forearm like sun setting", "example_video_search_query": "ASL evening night sign language"},
+    {"title": "Night", "short_description": "The time from sunset to sunrise.", "example_instruction": "Make curved hand over other forearm like moon", "example_video_search_query": "ASL night nighttime sign language"},
+    
+    {"title": "Hot", "short_description": "Having a high temperature.", "example_instruction": "Make claw hand at mouth and twist it away", "example_video_search_query": "ASL hot temperature sign language"},
+    {"title": "Cold", "short_description": "Having a low temperature.", "example_instruction": "Make fists and shake them as if shivering", "example_video_search_query": "ASL cold temperature sign language"},
+    {"title": "Rain", "short_description": "Water falling from clouds in drops.", "example_instruction": "Make claw hands and move them down like falling rain", "example_video_search_query": "ASL rain weather sign language"},
+    {"title": "Snow", "short_description": "Frozen precipitation in white flakes.", "example_instruction": "Make 5 handshapes and flutter them down", "example_video_search_query": "ASL snow winter sign language"},
+    {"title": "Sun", "short_description": "The star that provides light and heat to Earth.", "example_instruction": "Make C handshape above head and open to 5", "example_video_search_query": "ASL sun sunny sign language"},
+    {"title": "Wind", "short_description": "Moving air, especially a natural current.", "example_instruction": "Make 5 handshapes and sway them back and forth", "example_video_search_query": "ASL wind windy sign language"},
+    
+    {"title": "Happy", "short_description": "Feeling or showing pleasure or contentment.", "example_instruction": "Brush flat hand up chest twice with a smile", "example_video_search_query": "ASL happy joy sign language"},
+    {"title": "Sad", "short_description": "Feeling or showing sorrow.", "example_instruction": "Make 5 handshapes and draw them down face like tears", "example_video_search_query": "ASL sad sorrow sign language"},
+    {"title": "Angry", "short_description": "Feeling or showing strong displeasure.", "example_instruction": "Make claw hand and pull it away from face", "example_video_search_query": "ASL angry mad sign language"},
+    {"title": "Excited", "short_description": "Very enthusiastic and eager.", "example_instruction": "Make E handshapes and brush them up chest alternately", "example_video_search_query": "ASL excited enthusiasm sign language"},
+    {"title": "Tired", "short_description": "In need of sleep or rest.", "example_instruction": "Place fingertips on chest and let hands drop", "example_video_search_query": "ASL tired exhausted sign language"},
+    {"title": "Scared", "short_description": "Feeling fear or anxiety.", "example_instruction": "Make fists at chest and open them suddenly", "example_video_search_query": "ASL scared afraid sign language"},
+    {"title": "Love", "short_description": "A strong feeling of affection.", "example_instruction": "Cross arms over chest and hug yourself", "example_video_search_query": "ASL love affection sign language"},
+    {"title": "Hate", "short_description": "Intense dislike or aversion.", "example_instruction": "Make 8 handshapes and flick them away", "example_video_search_query": "ASL hate dislike sign language"},
+    
+    {"title": "Big", "short_description": "Of considerable size or extent.", "example_instruction": "Make L handshapes and move them apart", "example_video_search_query": "ASL big large sign language"},
+    {"title": "Small", "short_description": "Of limited size; not big.", "example_instruction": "Make flat hands close together and move them closer", "example_video_search_query": "ASL small little sign language"},
+    {"title": "Tall", "short_description": "Of great height.", "example_instruction": "Make flat hand and move it up along other arm", "example_video_search_query": "ASL tall height sign language"},
+    {"title": "Short", "short_description": "Of small height or length.", "example_instruction": "Make H handshapes and move top one down", "example_video_search_query": "ASL short small sign language"},
+    {"title": "Long", "short_description": "Measuring a great distance from end to end.", "example_instruction": "Point index finger up other arm from wrist to shoulder", "example_video_search_query": "ASL long length sign language"},
+    {"title": "Fast", "short_description": "Moving or capable of moving at high speed.", "example_instruction": "Make L handshapes and pull them back quickly", "example_video_search_query": "ASL fast quick sign language"},
+    {"title": "Slow", "short_description": "Moving at a low speed.", "example_instruction": "Draw one hand slowly up the back of the other", "example_video_search_query": "ASL slow slowly sign language"},
+    
+    {"title": "Red", "short_description": "The color of blood or fire.", "example_instruction": "Brush index finger down lips", "example_video_search_query": "ASL red color sign language"},
+    {"title": "Blue", "short_description": "The color of the sky or sea.", "example_instruction": "Make B handshape and shake it", "example_video_search_query": "ASL blue color sign language"},
+    {"title": "Green", "short_description": "The color of grass or leaves.", "example_instruction": "Make G handshape and shake it", "example_video_search_query": "ASL green color sign language"},
+    {"title": "Yellow", "short_description": "The color of the sun or gold.", "example_instruction": "Make Y handshape and shake it", "example_video_search_query": "ASL yellow color sign language"},
+    {"title": "Black", "short_description": "The darkest color, opposite of white.", "example_instruction": "Draw index finger across forehead", "example_video_search_query": "ASL black color sign language"},
+    {"title": "White", "short_description": "The lightest color, opposite of black.", "example_instruction": "Touch chest with 5 handshape and pull away to O", "example_video_search_query": "ASL white color sign language"},
+    {"title": "Purple", "short_description": "A color between red and blue.", "example_instruction": "Make P handshape and shake it", "example_video_search_query": "ASL purple color sign language"},
+    {"title": "Orange", "short_description": "A color between red and yellow.", "example_instruction": "Make C handshape and squeeze it at mouth", "example_video_search_query": "ASL orange color sign language"},
+    {"title": "Pink", "short_description": "A light red color.", "example_instruction": "Make P handshape and brush it down lips", "example_video_search_query": "ASL pink color sign language"},
+    {"title": "Brown", "short_description": "A dark color like wood or soil.", "example_instruction": "Make B handshape and slide it down cheek", "example_video_search_query": "ASL brown color sign language"},
+    
+    {"title": "Good", "short_description": "Of high quality or satisfactory.", "example_instruction": "Touch fingertips to chin, then move hand down to other palm", "example_video_search_query": "ASL good positive sign language"},
+    {"title": "Bad", "short_description": "Of poor quality or undesirable.", "example_instruction": "Touch fingertips to chin, then flip hand down with palm facing down", "example_video_search_query": "ASL bad negative sign language"},
+    {"title": "Right", "short_description": "Correct or proper.", "example_instruction": "Make R handshape and move it down onto other palm", "example_video_search_query": "ASL right correct sign language"},
+    {"title": "Wrong", "short_description": "Not correct or mistaken.", "example_instruction": "Make Y handshape and place it on chin", "example_video_search_query": "ASL wrong incorrect sign language"},
+    {"title": "Easy", "short_description": "Not difficult; simple.", "example_instruction": "Brush fingertips up back of other hand twice", "example_video_search_query": "ASL easy simple sign language"},
+    {"title": "Hard", "short_description": "Difficult to do or understand.", "example_instruction": "Strike knuckles of bent hands together", "example_video_search_query": "ASL hard difficult sign language"},
+    {"title": "New", "short_description": "Recently made or obtained.", "example_instruction": "Brush back of hand across palm", "example_video_search_query": "ASL new recent sign language"},
+    {"title": "Old", "short_description": "Having lived or existed for a long time.", "example_instruction": "Make C handshape under chin and close to S", "example_video_search_query": "ASL old aged sign language"},
+    
+    {"title": "Help", "short_description": "To assist or aid someone.", "example_instruction": "Place one fist on opposite palm and lift both hands up", "example_video_search_query": "ASL help assist sign language"},
+    {"title": "Want", "short_description": "To desire or wish for something.", "example_instruction": "Make claw hands and pull them toward yourself", "example_video_search_query": "ASL want desire sign language"},
+    {"title": "Need", "short_description": "To require something essential.", "example_instruction": "Make X handshape and move it down forcefully", "example_video_search_query": "ASL need require sign language"},
+    {"title": "Like", "short_description": "To find agreeable or enjoyable.", "example_instruction": "Touch chest with thumb and middle finger, then pull away", "example_video_search_query": "ASL like enjoy sign language"},
+    {"title": "Don't Like", "short_description": "To find disagreeable or unenjoyable.", "example_instruction": "Touch chest with thumb and middle finger, then flick away", "example_video_search_query": "ASL don't like dislike sign language"},
+    {"title": "Know", "short_description": "To be aware of or have information about.", "example_instruction": "Touch fingertips to temple", "example_video_search_query": "ASL know knowledge sign language"},
+    {"title": "Don't Know", "short_description": "To lack knowledge or information about.", "example_instruction": "Touch fingertips to temple, then move hand away", "example_video_search_query": "ASL don't know unknown sign language"},
+    {"title": "Understand", "short_description": "To comprehend or grasp the meaning of.", "example_instruction": "Make S handshape at temple and flick index finger up", "example_video_search_query": "ASL understand comprehend sign language"},
+    {"title": "Don't Understand", "short_description": "To fail to comprehend or grasp meaning.", "example_instruction": "Touch temple with index finger and shake head", "example_video_search_query": "ASL don't understand confused sign language"},
+    
+    {"title": "See", "short_description": "To perceive with the eyes.", "example_instruction": "Point V handshape from eyes outward", "example_video_search_query": "ASL see look sign language"},
+    {"title": "Hear", "short_description": "To perceive sound with the ears.", "example_instruction": "Point index finger to ear", "example_video_search_query": "ASL hear listen sign language"},
+    {"title": "Speak", "short_description": "To say words; to talk.", "example_instruction": "Make 4 handshape and move it away from mouth", "example_video_search_query": "ASL speak talk sign language"},
+    {"title": "Listen", "short_description": "To pay attention to sound.", "example_instruction": "Cup hand behind ear", "example_video_search_query": "ASL listen hear sign language"},
+    {"title": "Look", "short_description": "To direct one's gaze in a particular direction.", "example_instruction": "Point V handshape from eyes in direction of looking", "example_video_search_query": "ASL look see sign language"},
+    {"title": "Watch", "short_description": "To observe carefully or attentively.", "example_instruction": "Make V handshape and place it on back of other hand", "example_video_search_query": "ASL watch observe sign language"},
+    {"title": "Read", "short_description": "To look at and understand written words.", "example_instruction": "Point V handshape down at palm and move it down", "example_video_search_query": "ASL read reading sign language"},
+    {"title": "Write", "short_description": "To mark letters or words on a surface.", "example_instruction": "Pinch thumb and index finger and make writing motion", "example_video_search_query": "ASL write writing sign language"},
+    
+    {"title": "Eat", "short_description": "To consume food.", "example_instruction": "Bring fingertips to mouth repeatedly", "example_video_search_query": "ASL eat eating sign language"},
+    {"title": "Drink", "short_description": "To consume liquid.", "example_instruction": "Make C handshape and tip it toward mouth", "example_video_search_query": "ASL drink drinking sign language"},
+    {"title": "Sleep", "short_description": "To rest with eyes closed and mind inactive.", "example_instruction": "Place flat hand against cheek and close eyes", "example_video_search_query": "ASL sleep sleeping sign language"},
+    {"title": "Wake Up", "short_description": "To stop sleeping and become alert.", "example_instruction": "Place fingers at eyes and open them wide", "example_video_search_query": "ASL wake up awake sign language"},
+    {"title": "Sit", "short_description": "To be in a position with weight on buttocks.", "example_instruction": "Hook two fingers over two fingers of other hand", "example_video_search_query": "ASL sit sitting sign language"},
+    {"title": "Stand", "short_description": "To be upright on one's feet.", "example_instruction": "Place V handshape on palm standing up", "example_video_search_query": "ASL stand standing sign language"},
+    {"title": "Dance", "short_description": "To move rhythmically to music.", "example_instruction": "Make V handshape and swing it over palm", "example_video_search_query": "ASL dance dancing sign language"},
+    {"title": "Play", "short_description": "To engage in activity for enjoyment.", "example_instruction": "Make Y handshapes and shake them", "example_video_search_query": "ASL play playing sign language"},
+    
+    {"title": "Music", "short_description": "Sounds arranged in a pleasing sequence.", "example_instruction": "Wave flat hand back and forth over other forearm", "example_video_search_query": "ASL music musical sign language"},
+    {"title": "Song", "short_description": "A piece of music with words.", "example_instruction": "Make S handshape and wave it over other forearm", "example_video_search_query": "ASL song singing sign language"},
+    {"title": "Movie", "short_description": "A film or motion picture.", "example_instruction": "Make 5 handshapes and shake one behind the other", "example_video_search_query": "ASL movie film sign language"},
+    {"title": "Television", "short_description": "A device for receiving broadcast programs.", "example_instruction": "Make T and V handshapes in sequence", "example_video_search_query": "ASL television TV sign language"},
+    {"title": "Radio", "short_description": "A device for receiving audio broadcasts.", "example_instruction": "Cup hands over ears", "example_video_search_query": "ASL radio broadcast sign language"},
+    
+    {"title": "Game", "short_description": "An activity with rules for entertainment.", "example_instruction": "Make A handshapes and knock knuckles together", "example_video_search_query": "ASL game playing sign language"},
+    {"title": "Sport", "short_description": "Physical activity with rules and competition.", "example_instruction": "Make A handshapes and move them alternately", "example_video_search_query": "ASL sport sports sign language"},
+    {"title": "Ball", "short_description": "A round object used in games.", "example_instruction": "Make claw hands as if holding a ball", "example_video_search_query": "ASL ball round sign language"},
+    {"title": "Team", "short_description": "A group working together.", "example_instruction": "Make T handshapes and move them in a circle", "example_video_search_query": "ASL team group sign language"},
+    
+    {"title": "Question", "short_description": "A sentence seeking information.", "example_instruction": "Draw a question mark in the air with index finger", "example_video_search_query": "ASL question ask sign language"},
+    {"title": "Answer", "short_description": "A response to a question.", "example_instruction": "Point index fingers at mouth, then move them forward", "example_video_search_query": "ASL answer response sign language"},
+    {"title": "Problem", "short_description": "A difficult situation requiring solution.", "example_instruction": "Knock knuckles of bent hands together", "example_video_search_query": "ASL problem difficulty sign language"},
+    {"title": "Solution", "short_description": "An answer to a problem.", "example_instruction": "Make F handshapes and move them down and apart", "example_video_search_query": "ASL solution solve sign language"},
+    
+    {"title": "Important", "short_description": "Of great significance or value.", "example_instruction": "Make F handshapes and bring them together forcefully", "example_video_search_query": "ASL important significant sign language"},
+    {"title": "Different", "short_description": "Not the same; distinct.", "example_instruction": "Cross index fingers and pull them apart", "example_video_search_query": "ASL different distinct sign language"},
+    {"title": "Same", "short_description": "Identical; not different.", "example_instruction": "Point index fingers down and bring them together", "example_video_search_query": "ASL same identical sign language"},
+    {"title": "Change", "short_description": "To make or become different.", "example_instruction": "Make A handshapes and twist them around each other", "example_video_search_query": "ASL change modify sign language"},
+    
+    {"title": "Start", "short_description": "To begin or commence.", "example_instruction": "Place index finger between fingers of other hand and twist", "example_video_search_query": "ASL start begin sign language"},
+    {"title": "Finish", "short_description": "To complete or end.", "example_instruction": "Make 5 handshapes and flip them down", "example_video_search_query": "ASL finish complete sign language"},
+    {"title": "Continue", "short_description": "To keep going without stopping.", "example_instruction": "Make A handshapes and move them forward together", "example_video_search_query": "ASL continue keep going sign language"},
+    {"title": "Wait", "short_description": "To stay in expectation.", "example_instruction": "Hold up both hands with fingers wiggling", "example_video_search_query": "ASL wait waiting sign language"},
+    
+    {"title": "Come", "short_description": "To move toward the speaker.", "example_instruction": "Point index fingers away and bring them toward yourself", "example_video_search_query": "ASL come approach sign language"},
+    {"title": "Leave", "short_description": "To go away from a place.", "example_instruction": "Make 5 handshapes and pull them toward yourself", "example_video_search_query": "ASL leave depart sign language"},
+    {"title": "Stay", "short_description": "To remain in a place.", "example_instruction": "Make Y handshapes and push them down", "example_video_search_query": "ASL stay remain sign language"},
+    {"title": "Return", "short_description": "To come or go back.", "example_instruction": "Point index fingers away, then bring them back", "example_video_search_query": "ASL return come back sign language"},
+    
+    {"title": "Give", "short_description": "To transfer something to someone.", "example_instruction": "Make flat hands and move them forward", "example_video_search_query": "ASL give transfer sign language"},
+    {"title": "Take", "short_description": "To get hold of something.", "example_instruction": "Make 5 handshape and pull it toward yourself closing to S", "example_video_search_query": "ASL take get sign language"},
+    {"title": "Bring", "short_description": "To carry something to a place.", "example_instruction": "Make flat hands and move them toward yourself", "example_video_search_query": "ASL bring carry sign language"},
+    {"title": "Send", "short_description": "To cause something to go somewhere.", "example_instruction": "Touch fingertips to back of other hand and push forward", "example_video_search_query": "ASL send mail sign language"},
+    
+    {"title": "Open", "short_description": "To make accessible or available.", "example_instruction": "Place flat hands together and separate them", "example_video_search_query": "ASL open opening sign language"},
+    {"title": "Close", "short_description": "To shut or make inaccessible.", "example_instruction": "Bring flat hands together from apart", "example_video_search_query": "ASL close closing sign language"},
+    {"title": "Turn On", "short_description": "To activate or start something.", "example_instruction": "Make flat hand and twist it like turning a switch", "example_video_search_query": "ASL turn on activate sign language"},
+    {"title": "Turn Off", "short_description": "To deactivate or stop something.", "example_instruction": "Make flat hand and twist it opposite direction", "example_video_search_query": "ASL turn off deactivate sign language"},
+    
+    {"title": "Up", "short_description": "In or to a higher position.", "example_instruction": "Point index finger upward", "example_video_search_query": "ASL up upward sign language"},
+    {"title": "Down", "short_description": "In or to a lower position.", "example_instruction": "Point index finger downward", "example_video_search_query": "ASL down downward sign language"},
+    {"title": "Left", "short_description": "On or to the left side.", "example_instruction": "Make L handshape and move it to the left", "example_video_search_query": "ASL left direction sign language"},
+    {"title": "Right", "short_description": "On or to the right side.", "example_instruction": "Make R handshape and move it to the right", "example_video_search_query": "ASL right direction sign language"},
+    {"title": "Forward", "short_description": "In the direction ahead.", "example_instruction": "Point index finger and move it forward", "example_video_search_query": "ASL forward ahead sign language"},
+    {"title": "Backward", "short_description": "In the direction behind.", "example_instruction": "Point thumb over shoulder", "example_video_search_query": "ASL backward behind sign language"},
+    
+    {"title": "Here", "short_description": "In this place.", "example_instruction": "Make flat hands and move them in small circles", "example_video_search_query": "ASL here this place sign language"},
+    {"title": "There", "short_description": "In that place.", "example_instruction": "Point index finger in direction of place", "example_video_search_query": "ASL there that place sign language"},
+    {"title": "Where", "short_description": "In what place or position.", "example_instruction": "Point index finger and shake it back and forth", "example_video_search_query": "ASL where location sign language"},
+    {"title": "Near", "short_description": "Close to in distance.", "example_instruction": "Bring back of one hand close to palm of other", "example_video_search_query": "ASL near close sign language"},
+    {"title": "Far", "short_description": "At a great distance.", "example_instruction": "Make A handshapes and move one far from the other", "example_video_search_query": "ASL far distant sign language"},
+    
+    {"title": "Inside", "short_description": "Within the interior of something.", "example_instruction": "Put one hand inside the other cupped hand", "example_video_search_query": "ASL inside interior sign language"},
+    {"title": "Outside", "short_description": "External to something.", "example_instruction": "Pull hand out of cupped other hand", "example_video_search_query": "ASL outside exterior sign language"},
+    {"title": "Above", "short_description": "Higher than something.", "example_instruction": "Place one flat hand above the other", "example_video_search_query": "ASL above over sign language"},
+    {"title": "Below", "short_description": "Lower than something.", "example_instruction": "Place one flat hand below the other", "example_video_search_query": "ASL below under sign language"},
+    {"title": "Between", "short_description": "In the space separating two things.", "example_instruction": "Move flat hand back and forth between fingers of other hand", "example_video_search_query": "ASL between middle sign language"},
+    
+    {"title": "First", "short_description": "Coming before all others.", "example_instruction": "Touch thumb to index finger of other hand", "example_video_search_query": "ASL first beginning sign language"},
+    {"title": "Last", "short_description": "Coming after all others.", "example_instruction": "Touch pinky finger with index finger", "example_video_search_query": "ASL last final sign language"},
+    {"title": "Next", "short_description": "Coming immediately after.", "example_instruction": "Place one flat hand over the other and move it forward", "example_video_search_query": "ASL next following sign language"},
+    {"title": "Before", "short_description": "Earlier in time.", "example_instruction": "Place hands in front and move back hand forward", "example_video_search_query": "ASL before earlier sign language"},
+    {"title": "After", "short_description": "Later in time.", "example_instruction": "Place hands in front and move front hand forward", "example_video_search_query": "ASL after later sign language"},
+    
+    {"title": "Always", "short_description": "At all times; constantly.", "example_instruction": "Make index finger and move it in a circle", "example_video_search_query": "ASL always constantly sign language"},
+    {"title": "Never", "short_description": "At no time; not ever.", "example_instruction": "Make flat hand and move it in wavy motion down", "example_video_search_query": "ASL never not ever sign language"},
+    {"title": "Sometimes", "short_description": "Occasionally; now and then.", "example_instruction": "Point index finger up and move it in arc occasionally", "example_video_search_query": "ASL sometimes occasionally sign language"},
+    {"title": "Often", "short_description": "Frequently; many times.", "example_instruction": "Touch fingertips to palm and repeat several times", "example_video_search_query": "ASL often frequently sign language"},
+    {"title": "Rarely", "short_description": "Not often; seldom.", "example_instruction": "Make R handshape and brush it up other palm once", "example_video_search_query": "ASL rarely seldom sign language"}
+  ],
+  "tests": {
+    "beginner": [
+      {
+        "prompt": "Which handshape represents the letter 'A' in ASL?",
+        "options": [
+          "Make a fist with thumb resting against the side of your index finger",
+          "Point your index finger up, curl other fingers to touch thumb",
+          "Extend only your pinky finger, fold other fingers down",
+          "Hold your hand up with fingers straight and together"
+        ],
+        "correct_answer": "Make a fist with thumb resting against the side of your index finger"
+      },
+      {
+        "prompt": "How do you sign the number '5' in ASL?",
+        "options": [
+          "Point four fingers up, fold thumb across palm",
+          "Spread all five fingers wide open",
+          "Touch thumb to pinky, keep other three fingers up",
+          "Point index and middle fingers up in a V shape"
+        ],
+        "correct_answer": "Spread all five fingers wide open"
+      },
+      {
+        "prompt": "What is the correct way to sign 'Hello'?",
+        "options": [
+          "Touch fingertips to chin, then move hand forward and down",
+          "Wave your hand with an open palm, or touch forehead and move hand forward",
+          "Place flat hand on chest and move in circular motion",
+          "Make fist and nod it up and down"
+        ],
+        "correct_answer": "Wave your hand with an open palm, or touch forehead and move hand forward"
+      },
+      {
+        "prompt": "Which letter is formed by making an 'O' shape with fingers and thumb?",
+        "options": [
+          "Letter C",
+          "Letter O",
+          "Letter Q",
+          "Number 0"
+        ],
+        "correct_answer": "Letter O"
+      },
+      {
+        "prompt": "How do you sign 'Thank You'?",
+        "options": [
+          "Wave your hand back and forth",
+          "Touch fingertips to chin, then move hand forward and down",
+          "Place flat hand on chest and move in circular motion",
+          "Make fist and rub it in circular motion on chest"
+        ],
+        "correct_answer": "Touch fingertips to chin, then move hand forward and down"
+      },
+      {
+        "prompt": "What number is represented by pointing your index finger up?",
+        "options": [
+          "Number 0",
+          "Number 1",
+          "Number 2",
+          "Letter I"
+        ],
+        "correct_answer": "Number 1"
+      },
+      {
+        "prompt": "How do you sign 'Water'?",
+        "options": [
+          "Make W handshape and tap it against your chin twice",
+          "Bring fingertips to mouth as if drinking",
+          "Make C handshape and tip it toward mouth",
+          "Cup hands as if holding water"
+        ],
+        "correct_answer": "Make W handshape and tap it against your chin twice"
+      },
+      {
+        "prompt": "Which handshape represents 'Yes'?",
+        "options": [
+          "Point index finger up and nod",
+          "Make fist and nod it up and down like a head nodding",
+          "Thumbs up gesture",
+          "Open palm facing forward"
+        ],
+        "correct_answer": "Make fist and nod it up and down like a head nodding"
+      },
+      {
+        "prompt": "How do you sign the letter 'B'?",
+        "options": [
+          "Make a fist with thumb over fingers",
+          "Hold your hand up with fingers straight and together, thumb folded across palm",
+          "Point four fingers up, fold thumb across palm",
+          "Curve your fingers and thumb to form the shape of the letter B"
+        ],
+        "correct_answer": "Hold your hand up with fingers straight and together, thumb folded across palm"
+      },
+      {
+        "prompt": "What is the sign for 'No'?",
+        "options": [
+          "Shake head side to side",
+          "Snap index and middle finger down to thumb",
+          "Wave hand back and forth",
+          "Point index finger down"
+        ],
+        "correct_answer": "Snap index and middle finger down to thumb"
+      }
+    ],
+    "intermediate": [
+      {
+        "prompt": "How do you sign 'Family'?",
+        "options": [
+          "Point to different family members",
+          "Make F handshapes with both hands, circle them around each other",
+          "Hold hands together in a circle",
+          "Make house shape with both hands"
+        ],
+        "correct_answer": "Make F handshapes with both hands, circle them around each other"
+      },
+      {
+        "prompt": "What is the difference between signing 'Mother' and 'Father'?",
+        "options": [
+          "Mother uses left hand, Father uses right hand",
+          "Mother touches chin with thumb, Father touches forehead with thumb",
+          "Mother uses M handshape, Father uses F handshape",
+          "No difference, they are signed the same way"
+        ],
+        "correct_answer": "Mother touches chin with thumb, Father touches forehead with thumb"
+      },
+      {
+        "prompt": "How do you sign 'School'?",
+        "options": [
+          "Make S handshape and move it in a circle",
+          "Point to a building",
+          "Clap hands together twice, like a teacher getting attention",
+          "Make book opening gesture"
+        ],
+        "correct_answer": "Clap hands together twice, like a teacher getting attention"
+      },
+      {
+        "prompt": "Which sign represents 'Work'?",
+        "options": [
+          "Make typing motions with fingers",
+          "Make fists and tap one on top of the other repeatedly",
+          "Point to an office building",
+          "Make W handshape and move it back and forth"
+        ],
+        "correct_answer": "Make fists and tap one on top of the other repeatedly"
+      },
+      {
+        "prompt": "How do you sign 'Time'?",
+        "options": [
+          "Point to a clock on the wall",
+          "Make circular motion with index finger",
+          "Tap index finger on wrist where a watch would be",
+          "Hold up fingers to show the hour"
+        ],
+        "correct_answer": "Tap index finger on wrist where a watch would be"
+      },
+      {
+        "prompt": "What is the correct way to sign 'Hospital'?",
+        "options": [
+          "Make H handshape and draw a cross on your upper arm",
+          "Point to a building with a cross",
+          "Make red cross symbol with fingers",
+          "Touch forehead as if checking for fever"
+        ],
+        "correct_answer": "Make H handshape and draw a cross on your upper arm"
+      },
+      {
+        "prompt": "How do you distinguish between 'Today', 'Tomorrow', and 'Yesterday'?",
+        "options": [
+          "Point in different directions for each",
+          "Use different handshapes for each day",
+          "Today uses Y handshapes down, Tomorrow moves thumb forward from cheek, Yesterday moves thumb backward from cheek",
+          "They are all signed the same way"
+        ],
+        "correct_answer": "Today uses Y handshapes down, Tomorrow moves thumb forward from cheek, Yesterday moves thumb backward from cheek"
+      },
+      {
+        "prompt": "What is the sign for 'Money'?",
+        "options": [
+          "Rub thumb and fingers together",
+          "Tap the back of one hand into the palm of the other",
+          "Make dollar sign in the air",
+          "Count with fingers"
+        ],
+        "correct_answer": "Tap the back of one hand into the palm of the other"
+      },
+      {
+        "prompt": "How do you sign 'Help'?",
+        "options": [
+          "Reach out with both hands",
+          "Place one fist on opposite palm and lift both hands up",
+          "Point to yourself then to another person",
+          "Make H handshape and move it toward someone"
+        ],
+        "correct_answer": "Place one fist on opposite palm and lift both hands up"
+      },
+      {
+        "prompt": "Which colors are signed by shaking their corresponding letter handshapes?",
+        "options": [
+          "Red, Blue, Green",
+          "Blue, Green, Yellow",
+          "All colors are signed this way",
+          "Only primary colors"
+        ],
+        "correct_answer": "Blue, Green, Yellow"
+      }
+    ],
+    "advanced": [
+      {
+        "prompt": "How do you incorporate facial expressions when signing emotions?",
+        "options": [
+          "Facial expressions are not important in ASL",
+          "Always smile when signing",
+          "Match facial expression to the emotion being signed for grammatical completeness",
+          "Only use facial expressions for emphasis"
+        ],
+        "correct_answer": "Match facial expression to the emotion being signed for grammatical completeness"
+      },
+      {
+        "prompt": "What is the difference between 'Don't Know' and 'Don't Understand'?",
+        "options": [
+          "They are signed exactly the same way",
+          "Don't Know touches temple then moves away, Don't Understand touches temple with index finger and shakes head",
+          "Don't Know uses one hand, Don't Understand uses both hands",
+          "The difference is only in facial expression"
+        ],
+        "correct_answer": "Don't Know touches temple then moves away, Don't Understand touches temple with index finger and shakes head"
+      },
+      {
+        "prompt": "How do you show past, present, and future tense in ASL?",
+        "options": [
+          "Use different handshapes for each tense",
+          "Add specific time markers and use spatial referencing (past=backward, present=at body, future=forward)",
+          "Change the speed of signing",
+          "ASL doesn't have tense markers"
+        ],
+        "correct_answer": "Add specific time markers and use spatial referencing (past=backward, present=at body, future=forward)"
+      },
+      {
+        "prompt": "What is the proper way to get someone's attention in Deaf culture?",
+        "options": [
+          "Shout loudly",
+          "Tap gently on shoulder, wave in peripheral vision, or flash lights",
+          "Throw something at them",
+          "Stomp on the floor repeatedly"
+        ],
+        "correct_answer": "Tap gently on shoulder, wave in peripheral vision, or flash lights"
+      },
+      {
+        "prompt": "How do you sign complex sentences with multiple clauses?",
+        "options": [
+          "Sign each clause separately with pauses",
+          "Use spatial referencing, role shifting, and appropriate non-manual markers",
+          "Speed up the signing",
+          "Use only simple sentences in ASL"
+        ],
+        "correct_answer": "Use spatial referencing, role shifting, and appropriate non-manual markers"
+      },
+      {
+        "prompt": "What is the difference between 'Deaf' and 'Hard of Hearing' in ASL?",
+        "options": [
+          "They are signed the same way",
+          "Deaf touches ear to chin, Hard of Hearing uses H handshapes bouncing",
+          "Only the intensity of the sign differs",
+          "Hard of Hearing is fingerspelled only"
+        ],
+        "correct_answer": "Deaf touches ear to chin, Hard of Hearing uses H handshapes bouncing"
+      },
+      {
+        "prompt": "How do you incorporate numbers into time expressions (like 3:30)?",
+        "options": [
+          "Just sign the numbers separately",
+          "Use specific time-number incorporation and movement patterns",
+          "Always fingerspell time",
+          "Point to a clock"
+        ],
+        "correct_answer": "Use specific time-number incorporation and movement patterns"
+      },
+      {
+        "prompt": "What is the proper signing space and why is it important?",
+        "options": [
+          "Sign anywhere you want",
+          "Use the space from waist to head and shoulder to shoulder for clarity and grammar",
+          "Only sign at chest level",
+          "Signing space doesn't matter"
+        ],
+        "correct_answer": "Use the space from waist to head and shoulder to shoulder for clarity and grammar"
+      },
+      {
+        "prompt": "How do you show possession in ASL?",
+        "options": [
+          "Add 's to the end of signs",
+          "Use flat hand against chest for 'my', point for 'your', and spatial referencing for third person",
+          "Always fingerspell possessive words",
+          "Use the same sign for all possessives"
+        ],
+        "correct_answer": "Use flat hand against chest for 'my', point for 'your', and spatial referencing for third person"
+      },
+      {
+        "prompt": "What role do classifiers play in advanced ASL?",
+        "options": [
+          "They are not used in ASL",
+          "They represent categories of objects and show movement, location, and appearance",
+          "They are only used for fingerspelling",
+          "They replace all regular signs"
+        ],
+        "correct_answer": "They represent categories of objects and show movement, location, and appearance"
+      }
+    ]
+  }
+}
